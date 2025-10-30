@@ -5,6 +5,8 @@
 ### 2025 年 10 月 22 号添加
 #### 水无痕(杭州) 
 * :white_check_mark: [WaHaGameStore](https://wahagamestore.com)：在线 HTML 游戏，免登录、免下载
+* * :white_check_mark: [도티 청기백기](https://bluewhiteflag.org)：在线 HTML 游戏，免登录、免下载
+  * * :white_check_mark: [Scritchy Scratchy](https://scritchyscratchy.org)：在线 HTML 游戏，免登录、免下载
 
 ### 2025 年 10 月 21 号添加
 #### James(guangzhou) - [Github](https://github.com/sky4366)
